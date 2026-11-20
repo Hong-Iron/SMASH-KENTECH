@@ -1,0 +1,34 @@
+{
+ "region": "전남 나주시 빛가람동",
+ "nameEn": "Korea Institute of Energy Technology",
+ "added": "2026-11-01T02:27",
+ "rank": 219,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DONGSHIN",
+   "campus": "동신대학교",
+   "km": 9.1
+  },
+  {
+   "code": "SONGWON",
+   "campus": "송원대학교",
+   "km": 12.6
+  },
+  {
+   "code": "GJU",
+   "campus": "광주대학교",
+   "km": 13.4
+  },
+  {
+   "code": "HONAM",
+   "campus": "호남대학교",
+   "km": 16.1
+  },
+  {
+   "code": "KWU",
+   "campus": "광주여자대학교",
+   "km": 17.0
+  }
+ ]
+}
